@@ -1,13 +1,8 @@
-<a name="readme-top"></a>
-
 [![Streamlit App][Streamlit App]]
 [![Python][Python]]
 [![SQLite][SQLite]]
 [![GitHub][GitHub]]
 [![ChatGpt][ChatGpt]]
-
-
-
 
 <!-- LOGOTIPO DEL PROYECTO -->
 <br />
