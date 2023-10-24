@@ -14,8 +14,6 @@ from sqlalchemy import create_engine
 from sqlalchemy.pool import StaticPool
 from langchain.chains import create_sql_query_chain
 
-
-
 import utils as utl
 from views import options, configuration, inicio, contacto
 
