@@ -1,15 +1,12 @@
-
-from pathlib import Path
-from random import randrange
-
-from streamlit_tags import st_tags
-
 import openai
-from streamlit_option_menu import option_menu
-
 import streamlit as st
 import pandas as pd
+
+from streamlit_option_menu import option_menu
 from PIL import Image
+from pathlib import Path
+from random import randrange
+from streamlit_tags import st_tags
 
 def load_view():
 
