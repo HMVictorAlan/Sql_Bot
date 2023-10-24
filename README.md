@@ -1,4 +1,3 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
 [![Streamlit App][Streamlit App]]
@@ -45,18 +44,15 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Empezando</a>
+      <a href="#Empezando">Empezando</a>
       <ul>
-        <li><a href="#prerequisites">Requisitos previos</a></li>
-        <li><a href="#installation">Instalación</a></li>
+        <li><a href="#Instalación">Instalación</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#Uso">Uso</a></li>
+    <li><a href="#Contribucion">Contribucion</a></li>
+    <li><a href="#Contacto">Contacto</a></li>
+    <li><a href="#Expresiones de gratitud">Expresiones de gratitud</a></li>
   </ol>
 </details>
 
@@ -145,8 +141,8 @@ Para más ejemplos, consulte el [Documentation](https://python.langchain.com/doc
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- CONTRIBUYENDO -->
-## CONTRIBUYENDO
+<!-- CONTRIBUCION-->
+## CONTRIBUCION
 
 Las contribuciones son las que hacen de la comunidad de código abierto un lugar increíble para aprender, inspirar y crear. Cualquier contribución que hagas será **muy apreciada**.
 
