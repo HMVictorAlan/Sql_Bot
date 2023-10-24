@@ -51,7 +51,7 @@ def navigation():
         table_name = 'statesdb'
         uri = "file::memory:?cache=shared"
 
-        st.markdown("<h1 style='text-align: center; color: #d4d4d4;'> ¿Qué duda tienes? </h1>", unsafe_allow_html=True)
+        st.markdown("<h1 style='text-align: center; color: #4f5169;'> ¿Qué duda tienes? </h1>", unsafe_allow_html=True)
         st.subheader('Sube tu archivo')
 
         # lear archivo
