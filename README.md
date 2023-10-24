@@ -3,7 +3,6 @@
 
 [![Python][Python]]
 [![SQLite][SQLite]]
-[![Ubuntu][Ubuntu]]
 [![GitHub][GitHub]]
 [![Streamlit App][Streamlit App]]
 [![ChatGpt][ChatGpt]]
