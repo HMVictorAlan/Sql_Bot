@@ -19,13 +19,13 @@ def load_view():
         "Twitter": "https://twitter.com",
     }
 
-    st.markdown("<h1 style='text-align: center; color: #d4d4d4;'>  </h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center; color: grey'>  </h1>", unsafe_allow_html=True)
 
     col1, col2 = st.columns([1,2])
     with col1:
         st.image("assets/images/profile_pic.png" , width=333)
     with col2:
-        st.markdown("<h1 style='text-align: center; color: #d4d4d4;'> Victor Alan Hernandez Muñoz </h1>", unsafe_allow_html=True)
+        st.markdown("<h1 style='text-align: center; color: grey'> Victor Alan Hernandez Muñoz </h1>", unsafe_allow_html=True)
         st.markdown('##')
         st.write(Descripción)
         st.write("📫", correo)
