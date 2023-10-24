@@ -11,7 +11,7 @@ from streamlit_tags import st_tags
 def load_view():
 
 	st.markdown('##')
-	st.markdown("<h1 style='text-align: center; color: #d4d4d4;'> SQL BOT </h1>", unsafe_allow_html=True)
+	st.markdown("<h1 style='text-align: center; color: grey'> SQL BOT </h1>", unsafe_allow_html=True)
 	st.markdown("<h2 style='text-align: center; color: grey'>La manera más rápida para resolver dudas SQL</h2>", unsafe_allow_html=True)
 
 	col1, col2, col3 = st.columns([0.1, 0.2, 0.1])
